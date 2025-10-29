@@ -83,7 +83,7 @@ Laboratorio-2-Data-Processing-EDA/
 
 ![Histograma Base Exp]
 
-![alt text](image.png)
+![alt text](Distribución de Base Exp.png)
 
 #### 3. 🥊 Attack Base por Tipo Principal
 
